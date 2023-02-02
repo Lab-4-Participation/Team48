@@ -1,7 +1,8 @@
 package com.example.team48;
 
-abstract class Shape {
+public abstract class Shape {
     public int x;
     public int y;
-    String color = "blue";
+    String color = "$PUT_YOUR_CHOICE_OF_COLOR";
 }
+
